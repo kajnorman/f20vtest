@@ -1,2 +1,4 @@
 You are ok running compile link and upload arduino projects from commandline:
 	Here is the howto
+	You will actually use the gcc -pack
+	The upload is done using the sae command that is used under the hood on windows
